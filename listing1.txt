@@ -1,9 +1,0 @@
-total 0
-drwxr-xr-x 4 gpcorser domain users 69 Dec 30 08:16 blue
-drwxr-xr-x 4 gpcorser domain users 67 Dec 30 08:16 green
--rw-r--r-- 1 gpcorser domain users  0 Dec 30 09:33 listing1.txt
-drwxr-xr-x 4 gpcorser domain users 73 Dec 30 08:16 orange
-drwxr-xr-x 4 gpcorser domain users 31 Dec 30 08:16 purple
-drwxr-xr-x 5 gpcorser domain users 49 Dec 30 08:16 red
-drwxr-xr-x 4 gpcorser domain users 33 Dec 30 08:16 yellow
-zippydee
